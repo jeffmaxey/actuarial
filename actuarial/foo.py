@@ -1,3 +1,6 @@
+from actuarial import __version__
+
+
 def foo(bar: str) -> str:
     """Summary line.
 
@@ -14,4 +17,6 @@ def foo(bar: str) -> str:
 
 
 if __name__ == "__main__":  # pragma: no cover
+    print(f"Running actuarial version {__version__}")
+
     pass
