@@ -1,6 +1,6 @@
 [project]
 name = "actuarial"
-version = "0.0.3"
+version = "0.0.4"
 description = "Actuarial Modeling"
 authors = [{ name = "Jeff Maxey", email = "jeff.maxey@proton.me" }]
 readme = "README.md"
